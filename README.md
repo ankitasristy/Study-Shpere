@@ -1,2 +1,2 @@
-# Study-Shpere
+# Study-Sphere
 Study Shpere Description
