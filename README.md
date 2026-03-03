@@ -1,2 +1,2 @@
 # Study-Sphere
-Study Shpere Description
+Study Sphere Description
